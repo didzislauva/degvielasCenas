@@ -1,0 +1,8 @@
+[17-Jan-2012 17:19:05] PHP Fatal error:  Call to a member function find() on a non-object in /home8/intoone/public_html/didzis/gas/example/example_extract_html.php on line 6
+[17-Jan-2012 17:19:44] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home8/intoone/public_html/didzis/gas/example/example_extract_html.php on line 6
+[17-Jan-2012 17:28:31] PHP Fatal error:  Cannot use object of type simple_html_dom_node as array in /home8/intoone/public_html/didzis/gas/example/example_extract_html.php on line 9
+[17-Jan-2012 17:29:04] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home8/intoone/public_html/didzis/gas/example/example_extract_html.php on line 9
+[17-Jan-2012 17:36:46] PHP Parse error:  syntax error, unexpected '}' in /home8/intoone/public_html/didzis/gas/example/example_extract_html.php on line 13
+[17-Jan-2012 17:36:53] PHP Warning:  Invalid argument supplied for foreach() in /home8/intoone/public_html/didzis/gas/example/example_extract_html.php on line 10
+[17-Jan-2012 17:39:54] PHP Fatal error:  Can't use method return value in write context in /home8/intoone/public_html/didzis/gas/example/example_extract_html.php on line 8
+[17-Jan-2012 17:40:15] PHP Fatal error:  Can't use method return value in write context in /home8/intoone/public_html/didzis/gas/example/example_extract_html.php on line 8
